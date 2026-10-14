@@ -1,11 +1,10 @@
 # insgpos-se3
 IMU and GNSS fusion positioning based on SE2(3)
 
-# 简介
-基于SE2(3)的IMU和GNSS融合定位解算
+# Introduction
+IMU and GNSS fusion positioning solution based on SE2(3)
 
-# 联系
-QQ ：1971129844，苏景岚
+# Contact
+QQ: 1971129844, Su Jinglan
 
-Email：1971129844@qq.com
-
+Email: 1971129844@qq.com
